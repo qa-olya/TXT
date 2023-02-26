@@ -1,1 +1,11 @@
-
+BugReport
+Summary:
+        The search is case sensetive when it should NOT be,
+Steps:
+				1. go to the Home page,
+				2. Search for 'name'
+Expected Results:
+				1. User should be able to search the product in lower and upper cases,
+				2. Search should return at least one product 'name'
+Actual result: 
+        Search returns 0 results
