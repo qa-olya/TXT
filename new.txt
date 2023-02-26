@@ -1,0 +1,6 @@
+1.personal_info -Olya_Dolgin,
+2.age - 40,
+3.cars_quantity - 2,
+4.pets - 1
+5.work_outs_done - 10000,
+6.favorite_qoute - stay_hard
