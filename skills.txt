@@ -1,0 +1,7 @@
+Skills:
+1.GitHub,
+2.JSON and XML strucures,
+3.Postman - API testing,
+4.DevTools,
+5.Sniffing of http web traffic using Charles and Fidler,
+6.Using Vpn - How to use,Why to use,Instruments
